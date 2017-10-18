@@ -1,0 +1,14 @@
+{
+    "name": "cartprotector/api-object",
+    "description": "CartProtector Api Object",
+    "type": "project",
+    "autoload": {
+        "psr-4": {"": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Leonid Zakharov",
+            "email": "to@leonid.cc"
+        }
+    ]
+}
