@@ -1,7 +1,9 @@
 {
     "name": "cartprotector/api-object",
     "description": "CartProtector Api Object",
-    "type": "project",
+    "keywords": ["cartprotector", "api", "webhooks", "webhook"],
+    "homepage": "https://cartprotector.com/",
+    "type": "library",
     "autoload": {
         "psr-4": {"": "src/"}
     },
